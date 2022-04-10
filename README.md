@@ -3,8 +3,6 @@
 README
 ======
 
-Welkom bek ges
-
 ## Libraries
 
 * `libavcodec` provides implementation of a wider range of codecs.
